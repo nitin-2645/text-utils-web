@@ -1,10 +1,10 @@
 import React from 'react'
 
 function Alert(props) {
-    const Capitalize = (Word)=>{
-        const lower = Word.toLowerCase();
-        return lower.chartAt(0).toUpperCase() + lower.slice(1);
-    }
+    // const Capitalize = (Word)=>{
+    //     const lower = Word.toLowerCase();
+    //     return lower.chartAt(0).toUpperCase() + lower.slice(1);
+    // }
   return (
     <div style={{height: '50px'}}>
     
